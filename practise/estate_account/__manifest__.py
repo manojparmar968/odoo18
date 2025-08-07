@@ -17,6 +17,7 @@
         # "data/.xml",
         # "report/.xml",
         # "wizard/.xml",
+        "views/estate_property_view.xml",
         "views/res_company_views.xml",
     ],
     "installable": True,
